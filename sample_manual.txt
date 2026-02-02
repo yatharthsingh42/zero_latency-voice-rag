@@ -1,0 +1,10 @@
+Router Overheating Guide
+
+Common causes of router overheating include blocked ventilation,
+high ambient temperatures, and sustained CPU usage.
+
+Ensure that air vents are clear and the router is placed in a
+well-ventilated area.
+
+In some models, secondary modules may overheat independently
+due to localized airflow issues.
